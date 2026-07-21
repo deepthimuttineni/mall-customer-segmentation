@@ -20,5 +20,5 @@ Customer segmentation using K-Means and DBSCAN clustering on the Mall Customers 
 
 ## Files
 
-- `Mall_Customer_Segmentation.ipynb`
+- `Mall_Customers.ipynb`
 - `Mall_Customers.csv`
